@@ -1,7 +1,7 @@
 # DataScience_CleaningData
 Author: Eunice Park
 Date:   8/23/15
-Description: The R script analyzes the Human Activity Recognition Using Smartphones Dataset,  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+Description: The containing run_analysis.R script cleans and creates tidy datasets from the Human Activity Recognition Using Smartphones Dataset,  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # The R script, run_analysis.R performs the following:
 1. Merges the training and the test sets to create one data set.
