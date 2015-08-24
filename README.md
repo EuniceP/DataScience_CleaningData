@@ -1,6 +1,8 @@
 # DataScience_CleaningData
 Author: Eunice Park
+
 Date:   8/23/15
+
 Description: The containing run_analysis.R script cleans and creates tidy datasets from the Human Activity Recognition Using Smartphones Dataset,  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. 
